@@ -22,5 +22,5 @@ Our clients must exchange files with our developers, and because GDPR we must ta
 - Anything else you would like to add...
 
 ## when you are finished
-- Please send your solution as a github repository link to [tech.challenge@hubchain.com](tech.challenge@hubchain.com). Do not forget to send us the application link
+- Please send your solution as a github repository link to tech.challenge@hubchain.com. Do not forget to send us the application link
 - also please don't fork this repo as other candidates could then start build on top of your solution ;-)
